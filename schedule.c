@@ -1,4 +1,4 @@
-#include "scheduler.h"
+#include "schedule.h"
 #include "process.h"
 
 // Ready list (queue) implementation
